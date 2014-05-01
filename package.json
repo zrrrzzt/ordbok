@@ -27,5 +27,8 @@
   "bugs": {
     "url": "http://github.com/zrrrzzt/ordbok/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.34.0"
+  }
 }
