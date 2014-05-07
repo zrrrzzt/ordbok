@@ -24,6 +24,8 @@ if (process.argv.indexOf('-v') !== -1 || process.argv.indexOf('--version') !== -
 }
 
 ordbok({word:query}, function(err, data){
-  if(err) throw err;
+  if(err) {
+    throw err;
+  }
   console.log(data);
 });
