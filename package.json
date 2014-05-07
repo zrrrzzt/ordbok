@@ -1,7 +1,7 @@
 {
   "name": "ordbok",
   "version": "0.0.1",
-  "description": "Query the norwegian dictionary",
+  "description": "Query the Norwegian dictionary",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no"
@@ -18,7 +18,8 @@
   },
   "files": [
     "index.js",
-    "cli.js"
+    "cli.js",
+    "lib/parser.js"
   ],
   "repository": {
     "type": "git",
@@ -29,6 +30,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "request": "^2.34.0"
+    "request": "^2.34.0",
+    "cheerio": "^0.15.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
   }
 }
