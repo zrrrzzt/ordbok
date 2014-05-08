@@ -10,10 +10,12 @@ describe('ordbok - inputs', function(){
     var opts = {};
     ordbok(opts, function(err, data){
       assert.throws(function(){
-          if(err) throw err;
+          if(err) {
+            throw err;
+          }
         }, function(err){
           if((err instanceof Error) && /Missing required param: word/.test(err)){
-            return true
+            return true;
           }
         },
         "Unexpected error"
