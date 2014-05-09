@@ -9,8 +9,8 @@
   },
   "contributors": [
     {
-      name:"Fredrik Soløy",
-      url:"https://github.com/Frikish"
+      "name":"Fredrik Soløy",
+      "url":"https://github.com/Frikish"
     }
   ],
   "main": "index.js",
