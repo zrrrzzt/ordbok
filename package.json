@@ -4,7 +4,8 @@
   "description": "Query the Norwegian dictionary",
   "author": {
     "name": "Geir Gåsodden",
-    "email": "geir.gasodden@pythonia.no"
+    "email": "geir.gasodden@pythonia.no",
+    "url":"https://github.com/zrrrzzt"
   },
   "contributors": [
     {
