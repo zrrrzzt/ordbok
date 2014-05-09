@@ -1,11 +1,17 @@
 {
   "name": "ordbok",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Query the Norwegian dictionary",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no"
   },
+  "contributors": [
+    {
+      name:"Fredrik Soløy",
+      url:"https://github.com/Frikish"
+    }
+  ],
   "main": "index.js",
   "bin": {
     "ordbok": "cli.js"
