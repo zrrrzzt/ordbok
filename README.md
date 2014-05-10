@@ -62,3 +62,37 @@ $ ordbok --version
 ```
 $ ordbok <query>
 ```
+
+
+### Output
+
+```
+{"bokmal":
+  [
+    {
+      "word": String ,
+      "partOfSpeech": String ,
+      "wordsOrigin": String ,
+      "interpretation": [
+        {
+          "definition": String
+        }
+      ]
+    }
+  ]
+  , "nynorsk":
+  [
+    {
+      "word": String ,
+      "partOfSpeech": String ,
+      "wordsOrigin": String ,
+      "interpretation": [
+        {
+          "definition": String
+        }
+      ]
+    }
+  ]
+}
+
+```
