@@ -27,7 +27,9 @@
   "files": [
     "index.js",
     "cli.js",
-    "lib/parser.js"
+    "lib/entry.js",
+    "lib/parser.js",
+    "lib/tools.js"
   ],
   "repository": {
     "type": "git",
