@@ -28,6 +28,7 @@
     "index.js",
     "cli.js",
     "lib/entry.js",
+    "lib/paradigme.js",
     "lib/parser.js",
     "lib/tools.js"
   ],
