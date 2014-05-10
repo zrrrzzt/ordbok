@@ -1,0 +1,48 @@
+{"bokmal":
+  [
+    {
+      "word": "nisse",
+      "partOfSpeech": "m1",
+      "wordsOrigin": "I nisse m1 (fra gr Nikolaos; av mannsnavnet Nils)",
+      "interpretation": [
+        {
+          "definition": " 1 i nord. folketro: et overnaturlig vesen som holder til i nærheten av mennesker, særlig i uthusene på garden, og tenkes som en liten, gråkledd mann med rød topplue og langt skjeggsette ut graut til n-n / n-n følger med på lasset det uheldige en ville komme bort fra, følger med  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse"
+        },
+        {
+          "definition": "  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse"
+        },
+        {
+          "definition": " 2 julenissen-n kom med pakker til barna / tro på n-n"
+        }
+      ]
+    },
+    {
+      "word": "nisse",
+      "partOfSpeech": "v1",
+      "wordsOrigin": "II nisse v1 (omdannet av pisse)",
+      "interpretation": []
+    }
+  ]
+  , "nynorsk":
+  [
+    {
+      "word": "nisse",
+      "partOfSpeech": "m1",
+      "wordsOrigin": "I nisse m1 (frå gr Nikolaos; eigenleg kjæleform av mannsnamnet Nils)",
+      "interpretation": [
+        {
+          "definition": " 1 i nordisk folketru: vette som held til i nærleiken av menneske, særleg i tunet og uthusa på gardar, tenkt som ein liten, gråkledd mann med raud topplue og langt skjeggsetje ut graut til nissen / nissen følgjer med på lasset det uheldige ein ville kome bort frå, følgjer med"
+        },
+        {
+          "definition": " 2 julenissenissen kom med pakker til barna"
+        }
+      ]
+    },
+    {
+      "word": "nissa, nisse",
+      "partOfSpeech": "v1",
+      "wordsOrigin": "II nisse v1 (mildnande omlaging av pisse)",
+      "interpretation": []
+    }
+  ]
+}
