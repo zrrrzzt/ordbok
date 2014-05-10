@@ -1,6 +1,6 @@
 {
   "name": "ordbok",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Query the Norwegian dictionary",
   "author": {
     "name": "Geir Gåsodden",
