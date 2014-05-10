@@ -1,3 +1,5 @@
+'use strict';
+
 var paradigme = require('../lib/paradigme')
   , assert = require('assert')
   ;
