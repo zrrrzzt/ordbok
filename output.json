@@ -1,33 +1,76 @@
-{"bokmal":
-  [
+{"bokmal": [
+  {
+    "word": "nisse",
+    "partOfSpeech": "m1",
+    "paradigm": [
+      "en nisse",
+      "nissen",
+      "nisser",
+      "nissene"
+    ],
+    "wordsOrigin": "I nisse m1 (fra gr Nikolaos; av mannsnavnet Nils)",
+    "interpretation": [
+      {
+        "definition": " 1 i nord. folketro: et overnaturlig vesen som holder til i nærheten av mennesker, særlig i uthusene på garden, og tenkes som en liten, gråkledd mann med rød topplue og langt skjeggsette ut graut til n-n / n-n følger med på lasset det uheldige en ville komme bort fra, følger med  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse"
+      },
+      {
+        "definition": " 2 julenissen-n kom med pakker til barna / tro på n-n"
+      }
+    ]
+  },
+  {
+    "word": "nisse",
+    "partOfSpeech": "v1",
+    "paradigm": [
+      "å nisse",
+      "nisser",
+      "nissa",
+      "har nissa",
+      "niss",
+      "å nisse",
+      "nisser",
+      "nisset",
+      "har nisset",
+      "niss",
+      "å nisse",
+      "nisser",
+      "nisset",
+      "har nisset",
+      "niss",
+      "nissa",
+      "nissa",
+      "nissa",
+      "nissa",
+      "nissende",
+      "nisset",
+      "nisset",
+      "nissete",
+      "nissete",
+      "nissende",
+      "nisset",
+      "nisset",
+      "nissede",
+      "nissede",
+      "nissende"
+    ],
+    "wordsOrigin": "II nisse v1 (omdannet av pisse) i barnespråk: late vannet, urinere",
+    "interpretation": [
+      {
+        "definition": " i barnespråk: late vannet, urinere"
+      }
+    ]
+  }
+],
+  "nynorsk": [
     {
       "word": "nisse",
       "partOfSpeech": "m1",
-      "wordsOrigin": "I nisse m1 (fra gr Nikolaos; av mannsnavnet Nils)",
-      "interpretation": [
-        {
-          "definition": " 1 i nord. folketro: et overnaturlig vesen som holder til i nærheten av mennesker, særlig i uthusene på garden, og tenkes som en liten, gråkledd mann med rød topplue og langt skjeggsette ut graut til n-n / n-n følger med på lasset det uheldige en ville komme bort fra, følger med  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse"
-        },
-        {
-          "definition": "  neds: tufs, tullebukkdere er noen ordentlige n-r / din n-!, jf fjompenisse"
-        },
-        {
-          "definition": " 2 julenissen-n kom med pakker til barna / tro på n-n"
-        }
-      ]
-    },
-    {
-      "word": "nisse",
-      "partOfSpeech": "v1",
-      "wordsOrigin": "II nisse v1 (omdannet av pisse)",
-      "interpretation": []
-    }
-  ]
-  , "nynorsk":
-  [
-    {
-      "word": "nisse",
-      "partOfSpeech": "m1",
+      "paradigm": [
+        "ein nisse",
+        "nissen",
+        "nissar",
+        "nissane"
+      ],
       "wordsOrigin": "I nisse m1 (frå gr Nikolaos; eigenleg kjæleform av mannsnamnet Nils)",
       "interpretation": [
         {
@@ -41,8 +84,24 @@
     {
       "word": "nissa, nisse",
       "partOfSpeech": "v1",
-      "wordsOrigin": "II nisse v1 (mildnande omlaging av pisse)",
-      "interpretation": []
+      "paradigm": [
+        "å nissaå nisse",
+        "nissar",
+        "nissa",
+        "har nissa",
+        "niss",
+        "nissa",
+        "nissa",
+        "nissa",
+        "nissa",
+        "nissande"
+      ],
+      "wordsOrigin": "II nisse v1 (mildnande omlaging av pisse) i barnespråk: late vatnet, urinere",
+      "interpretation": [
+        {
+          "definition": " i barnespråk: late vatnet, urinere"
+        }
+      ]
     }
   ]
 }
