@@ -72,6 +72,9 @@ $ ordbok <query>
     {
       "word": String ,
       "partOfSpeech": String ,
+      "paradigm": [
+        String
+      ],
       "wordsOrigin": String ,
       "interpretation": [
         {
@@ -85,6 +88,9 @@ $ ordbok <query>
     {
       "word": String ,
       "partOfSpeech": String ,
+      "paradigm": [
+        String
+      ],
       "wordsOrigin": String ,
       "interpretation": [
         {
