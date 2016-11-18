@@ -41,7 +41,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "request": "^2.34.0",
+    "request": "2.78.0",
     "cheerio": "^0.22.0"
   },
   "devDependencies": {
