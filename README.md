@@ -16,7 +16,7 @@ $ npm install ordbok -g
 
 ##Test
 
-Make sure you have installed [Mocha](http://visionmedia.github.io/mocha/) globally or go to the ordbok folder and do an nmp install.
+Make sure you have installed [Mocha](http://mochajs.org/) globally or go to the ordbok folder and do an nmp install.
 
 ```
 $ npm test
