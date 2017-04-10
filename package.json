@@ -1,7 +1,8 @@
 {
   "name": "ordbok",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "Query the Norwegian dictionary",
+  "license": "MIT",
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
@@ -19,27 +20,19 @@
     "ordbok": "cli.js"
   },
   "engines": {
-    "node": ">=0.10.0"
+    "node": ">=4.8.2"
   },
   "scripts": {
     "test": "mocha --reporter spec test/*.js"
   },
-  "files": [
-    "index.js",
-    "cli.js",
-    "lib/entry.js",
-    "lib/paradigme.js",
-    "lib/parser.js",
-    "lib/tools.js"
-  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/zrrrzzt/ordbok.git"
+    "url": "https://github.com/zrrrzzt/ordbok.git"
   },
   "bugs": {
-    "url": "http://github.com/zrrrzzt/ordbok/issues"
+    "url": "https://github.com/zrrrzzt/ordbok/issues"
   },
-  "license": "MIT",
+  "homepage": "https://github.com/zrrrzzt/ordbok/issues",
   "dependencies": {
     "request": "2.81.0",
     "cheerio": "^0.22.0"
