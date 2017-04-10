@@ -1,6 +1,6 @@
 #ordbok [![Build Status](https://travis-ci.org/zrrrzzt/ordbok.svg?branch=master)](https://travis-ci.org/zrrrzzt/ordbok)
 
-Node.js module/CLI app for querying nob-ordbok.uio.no
+Node.js module/CLI app for querying ordbok.uib.no
 
 ##Installation
 
