@@ -1,7 +1,7 @@
 'use strict';
 
 var request = require('request')
-  , uri = 'http://www.nob-ordbok.uio.no/perl/ordbok.cgi'
+  , uri = 'http://ordbok.uib.no/perl/ordbok.cgi'
   , parser = require('./lib/parser')
   , reqOpts = {
       begge: '+&ordbok=begge'
