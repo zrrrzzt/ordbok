@@ -66,7 +66,7 @@ $ ordbok <query>
 
 ### Output
 
-```
+```JavaScript
 {"bokmal":
   [
     {
@@ -100,5 +100,4 @@ $ ordbok <query>
     }
   ]
 }
-
 ```
