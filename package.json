@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/zrrrzzt/ordbok/issues",
   "dependencies": {
-    "request": "2.82.0",
+    "request": "2.83.0",
     "cheerio": "0.22.0"
   },
   "devDependencies": {
