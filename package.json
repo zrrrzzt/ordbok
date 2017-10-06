@@ -38,6 +38,6 @@
     "cheerio": "0.22.0"
   },
   "devDependencies": {
-    "mocha": "3.5.3"
+    "mocha": "4.0.1"
   }
 }
