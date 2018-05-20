@@ -1,29 +1,21 @@
-'use strict';
+'use strict'
 
-var paradigme = require('../lib/paradigme')
-  , assert = require('assert')
-  ;
+var paradigme = require('../lib/paradigme'),
+  assert = require('assert')
 
-describe('Paradigme', function(){
+describe('Paradigme', function () {
+  it('Should return a list with 4 words', function (done) {
+    var id = '50975',
+      lang = 'BM'
 
-  it('Should return a list with 4 words', function(done){
-
-    var id = '50975'
-      , lang = 'BM'
-      ;
-
-    paradigme(id, lang, function(err, list){
-
-      if(err){
-        throw err;
+    paradigme(id, lang, function (err, list) {
+      if (err) {
+        throw err
       }
 
-      assert.equal(4, list.length);
+      assert.equal(4, list.length)
 
-      done();
-
-    });
-
-  });
-
-});
+      done()
+    })
+  })
+})

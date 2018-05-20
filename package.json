@@ -6,13 +6,13 @@
   "author": {
     "name": "Geir Gåsodden",
     "email": "geir.gasodden@pythonia.no",
-    "url":"https://github.com/zrrrzzt"
+    "url": "https://github.com/zrrrzzt"
   },
   "contributors": [
     {
-      "name":"Fredrik Soløy",
+      "name": "Fredrik Soløy",
       "email": "fredrik.soloy@gmail.com",
-      "url":"https://github.com/Frikish"
+      "url": "https://github.com/Frikish"
     }
   ],
   "main": "index.js",
@@ -20,24 +20,27 @@
     "ordbok": "cli.js"
   },
   "engines": {
-    "node": ">=4.8.2"
+    "node": ">=8.11.2"
   },
   "scripts": {
-    "test": "mocha --reporter spec test/*.js"
+    "test": "mocha --reporter spec test/*.js",
+    "standard-fix": "standard --fix",
+    "refresh": "rm -rf node_modules && rm package-lock.json && npm install"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/zrrrzzt/ordbok.git"
+    "url": "git+https://github.com/zrrrzzt/ordbok.git"
   },
   "bugs": {
     "url": "https://github.com/zrrrzzt/ordbok/issues"
   },
-  "homepage": "https://github.com/zrrrzzt/ordbok/issues",
+  "homepage": "https://github.com/zrrrzzt/ordbok#readme",
   "dependencies": {
     "request": "2.86.0",
     "cheerio": "0.22.0"
   },
   "devDependencies": {
-    "mocha": "5.2.0"
+    "mocha": "5.2.0",
+    "standard": "11.0.1"
   }
 }

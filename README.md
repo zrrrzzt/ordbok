@@ -1,8 +1,10 @@
-#ordbok [![Build Status](https://travis-ci.org/zrrrzzt/ordbok.svg?branch=master)](https://travis-ci.org/zrrrzzt/ordbok)
+[![Build Status](https://travis-ci.org/zrrrzzt/ordbok.svg?branch=master)](https://travis-ci.org/zrrrzzt/ordbok)
+
+# ordbok 
 
 Node.js module/CLI app for querying ordbok.uib.no
 
-##Installation
+## Installation
 
 ```
 $ npm install ordbok
@@ -14,7 +16,7 @@ You can also install it globally to use the CLI version.
 $ npm install ordbok -g
 ```
 
-##Test
+## Test
 
 Make sure you have installed [Mocha](http://mochajs.org/) globally or go to the ordbok folder and do an nmp install.
 
@@ -22,26 +24,25 @@ Make sure you have installed [Mocha](http://mochajs.org/) globally or go to the 
 $ npm test
 ```
 
-##Usage
+## Usage
 
 Pass an object with the required property and receive the result.
 
 **word** String you want to lookup.
 
-```javascript
-var ordbok = require('ordbok')
-  , opts = {
-      word:'syltelabb'
-    }
-  ;
+```JavaScript
+const ordbok = require('ordbok')
+const options = {
+  word: 'syltelabb'
+}
 
-ordbok(opts, function(err, data){
-  if(err)throw err;
-  console.log(data);
-});
+ordbok(options, (error, data) => {
+  if (error) throw error
+  console.log(data)
+})
 ```
 
-##CLI
+## CLI
 
 To use it as a CLI app install it globally.
 
@@ -57,7 +58,7 @@ To display version
 $ ordbok --version
 ```
 
-###Usage
+### Usage
 
 ```
 $ ordbok <query>
@@ -101,3 +102,7 @@ $ ordbok <query>
   ]
 }
 ```
+
+## License
+
+[MIT](LICENSE)
