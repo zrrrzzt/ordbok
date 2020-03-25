@@ -20,7 +20,7 @@
     "ordbok": "cli.js"
   },
   "engines": {
-    "node": ">=8.11.3"
+    "node": ">=12.16.1"
   },
   "scripts": {
     "test": "mocha --reporter spec test/*.js",
