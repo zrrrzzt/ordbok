@@ -37,7 +37,7 @@
   "homepage": "https://github.com/zrrrzzt/ordbok#readme",
   "dependencies": {
     "request": "2.88.2",
-    "cheerio": "0.22.0"
+    "cheerio": "1.2.0"
   },
   "devDependencies": {
     "mocha": "9.2.2",
